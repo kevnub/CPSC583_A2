@@ -333,7 +333,7 @@ d3.csv("Description1.csv", function(data) {
                 .classed("hover", true)
                 .attr("stroke", strokecolor)
                 .attr("stroke-width", "0.5px"); //,
-                tooltip.html("In <b>" + year + "</b>, the average UK household consumed <b>" + pro + "g</b> of <b>" + d.key + "</b>. ").style("visibility", "visible")
+                tooltip.html("In <b>" + year + "</b>, the average UK household consumed <b>" + pro + "g</b> of <b>" + d.key + "</b> per week. ").style("visibility", "visible")
                 tooltip2.html(d.key).style("visibility", "visible").style("top", (d3.event.pageY + 15)+"px").style("left",(d3.event.pageX+15)+"px");
         })
 
