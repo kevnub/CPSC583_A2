@@ -1,0 +1,534 @@
+desc1,desc2,value,date
+Milk and milk products,Milk and milk products,3083,1974
+Milk and milk products,Milk and milk products,3094,1975
+Milk and milk products,Milk and milk products,3068,1976
+Milk and milk products,Milk and milk products,2963,1977
+Milk and milk products,Milk and milk products,2914,1978
+Milk and milk products,Milk and milk products,2874,1979
+Milk and milk products,Milk and milk products,2797,1980
+Milk and milk products,Milk and milk products,2722,1981
+Milk and milk products,Milk and milk products,2686,1982
+Milk and milk products,Milk and milk products,2635,1983
+Milk and milk products,Milk and milk products,2635,1984
+Milk and milk products,Milk and milk products,2525,1985
+Milk and milk products,Milk and milk products,2549,1986
+Milk and milk products,Milk and milk products,2499,1987
+Milk and milk products,Milk and milk products,2468,1988
+Milk and milk products,Milk and milk products,2420,1989
+Milk and milk products,Milk and milk products,2348,1990
+Milk and milk products,Milk and milk products,2313,1991
+Milk and milk products,Milk and milk products,2411,1992
+Milk and milk products,Milk and milk products,2361,1993
+Milk and milk products,Milk and milk products,2371,1994
+Milk and milk products,Milk and milk products,2353,1995
+Milk and milk products,Milk and milk products,2290,1996
+Milk and milk products,Milk and milk products,2281,1997
+Milk and milk products,Milk and milk products,2230,1998
+Milk and milk products,Milk and milk products,2189,1999
+Milk and milk products,Milk and milk products,2273,2000
+Milk and milk products,Milk and milk products,2145,2001
+Milk and milk products,Milk and milk products,2118,2002
+Milk and milk products,Milk and milk products,2154,2003
+Milk and milk products,Milk and milk products,2106,2004
+Milk and milk products,Milk and milk products,2143,2005
+Milk and milk products,Milk and milk products,2138,2006
+Milk and milk products,Milk and milk products,2103,2007
+Milk and milk products,Milk and milk products,2068,2008
+Milk and milk products,Milk and milk products,2119,2009
+Milk and milk products,Milk and milk products,2015,2010
+Milk and milk products,Milk and milk products,2022,2011
+Milk and milk products,Milk and milk products,2015,2012
+Milk and milk products,Milk and milk products,1965,2013
+Milk and milk products,Milk and milk products,1960,2014
+Carcase Meat,Carcase Meat,393,1974
+Carcase Meat,Carcase Meat,413,1975
+Carcase Meat,Carcase Meat,396,1976
+Carcase Meat,Carcase Meat,416,1977
+Carcase Meat,Carcase Meat,416,1978
+Carcase Meat,Carcase Meat,436,1979
+Carcase Meat,Carcase Meat,453,1980
+Carcase Meat,Carcase Meat,408,1981
+Carcase Meat,Carcase Meat,396,1982
+Carcase Meat,Carcase Meat,378,1983
+Carcase Meat,Carcase Meat,348,1984
+Carcase Meat,Carcase Meat,357,1985
+Carcase Meat,Carcase Meat,357,1986
+Carcase Meat,Carcase Meat,338,1987
+Carcase Meat,Carcase Meat,334,1988
+Carcase Meat,Carcase Meat,329,1989
+Carcase Meat,Carcase Meat,301,1990
+Carcase Meat,Carcase Meat,304,1991
+Carcase Meat,Carcase Meat,269,1992
+Carcase Meat,Carcase Meat,266,1993
+Carcase Meat,Carcase Meat,250,1994
+Carcase Meat,Carcase Meat,235,1995
+Carcase Meat,Carcase Meat,231,1996
+Carcase Meat,Carcase Meat,231,1997
+Carcase Meat,Carcase Meat,233,1998
+Carcase Meat,Carcase Meat,226,1999
+Carcase Meat,Carcase Meat,235,2000
+Carcase Meat,Carcase Meat,229,2001
+Carcase Meat,Carcase Meat,230,2002
+Carcase Meat,Carcase Meat,225,2003
+Carcase Meat,Carcase Meat,229,2004
+Carcase Meat,Carcase Meat,226,2005
+Carcase Meat,Carcase Meat,238,2006
+Carcase Meat,Carcase Meat,235,2007
+Carcase Meat,Carcase Meat,211,2008
+Carcase Meat,Carcase Meat,212,2009
+Carcase Meat,Carcase Meat,211,2010
+Carcase Meat,Carcase Meat,204,2011
+Carcase Meat,Carcase Meat,196,2012
+Carcase Meat,Carcase Meat,182,2013
+Carcase Meat,Carcase Meat,195,2014
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,630,1974
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,642,1975
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,656,1976
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,695,1977
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,705,1978
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,724,1979
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,707,1980
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,734,1981
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,728,1982
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,730,1983
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,722,1984
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,712,1985
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,721,1986
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,737,1987
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,727,1988
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,721,1989
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,698,1990
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,691,1991
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,714,1992
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,728,1993
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,732,1994
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,751,1995
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,759,1996
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,752,1997
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,752,1998
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,735,1999
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,779,2000
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,812,2001
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,820,2002
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,836,2003
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,820,2004
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,821,2005
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,804,2006
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,795,2007
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,787,2008
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,787,2009
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,805,2010
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,794,2011
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,793,2012
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,766,2013
+Non-Carcase Meat and Meat Products,Non-Carcase Meat and Meat Products,760,2014
+Fish,Fish,123,1974
+Fish,Fish,128,1975
+Fish,Fish,131,1976
+Fish,Fish,118,1977
+Fish,Fish,122,1978
+Fish,Fish,129,1979
+Fish,Fish,137,1980
+Fish,Fish,141,1981
+Fish,Fish,144,1982
+Fish,Fish,147,1983
+Fish,Fish,140,1984
+Fish,Fish,140,1985
+Fish,Fish,148,1986
+Fish,Fish,146,1987
+Fish,Fish,146,1988
+Fish,Fish,150,1989
+Fish,Fish,147,1990
+Fish,Fish,141,1991
+Fish,Fish,144,1992
+Fish,Fish,148,1993
+Fish,Fish,148,1994
+Fish,Fish,147,1995
+Fish,Fish,158,1996
+Fish,Fish,149,1997
+Fish,Fish,148,1998
+Fish,Fish,146,1999
+Fish,Fish,144,2000
+Fish,Fish,157,2001
+Fish,Fish,155,2002
+Fish,Fish,156,2003
+Fish,Fish,158,2004
+Fish,Fish,167,2005
+Fish,Fish,170,2006
+Fish,Fish,165,2007
+Fish,Fish,161,2008
+Fish,Fish,158,2009
+Fish,Fish,151,2010
+Fish,Fish,147,2011
+Fish,Fish,144,2012
+Fish,Fish,146,2013
+Fish,Fish,144,2014
+Fats,Fats,316,1974
+Fats,Fats,315,1975
+Fats,Fats,312,1976
+Fats,Fats,314,1977
+Fats,Fats,319,1978
+Fats,Fats,317,1979
+Fats,Fats,324,1980
+Fats,Fats,320,1981
+Fats,Fats,319,1982
+Fats,Fats,311,1983
+Fats,Fats,300,1984
+Fats,Fats,293,1985
+Fats,Fats,308,1986
+Fats,Fats,294,1987
+Fats,Fats,290,1988
+Fats,Fats,279,1989
+Fats,Fats,265,1990
+Fats,Fats,257,1991
+Fats,Fats,256,1992
+Fats,Fats,239,1993
+Fats,Fats,235,1994
+Fats,Fats,227,1995
+Fats,Fats,235,1996
+Fats,Fats,210,1997
+Fats,Fats,201,1998
+Fats,Fats,192,1999
+Fats,Fats,193,2000
+Fats,Fats,196,2001
+Fats,Fats,190,2002
+Fats,Fats,186,2003
+Fats,Fats,182,2004
+Fats,Fats,183,2005
+Fats,Fats,184,2006
+Fats,Fats,181,2007
+Fats,Fats,184,2008
+Fats,Fats,181,2009
+Fats,Fats,183,2010
+Fats,Fats,170,2011
+Fats,Fats,178,2012
+Fats,Fats,171,2013
+Fats,Fats,158,2014
+Sugar and Preserves,Sugar and Preserves,535,1974
+Sugar and Preserves,Sugar and Preserves,470,1975
+Sugar and Preserves,Sugar and Preserves,497,1976
+Sugar and Preserves,Sugar and Preserves,495,1977
+Sugar and Preserves,Sugar and Preserves,481,1978
+Sugar and Preserves,Sugar and Preserves,471,1979
+Sugar and Preserves,Sugar and Preserves,455,1980
+Sugar and Preserves,Sugar and Preserves,451,1981
+Sugar and Preserves,Sugar and Preserves,422,1982
+Sugar and Preserves,Sugar and Preserves,407,1983
+Sugar and Preserves,Sugar and Preserves,381,1984
+Sugar and Preserves,Sugar and Preserves,352,1985
+Sugar and Preserves,Sugar and Preserves,343,1986
+Sugar and Preserves,Sugar and Preserves,320,1987
+Sugar and Preserves,Sugar and Preserves,300,1988
+Sugar and Preserves,Sugar and Preserves,280,1989
+Sugar and Preserves,Sugar and Preserves,263,1990
+Sugar and Preserves,Sugar and Preserves,261,1991
+Sugar and Preserves,Sugar and Preserves,242,1992
+Sugar and Preserves,Sugar and Preserves,233,1993
+Sugar and Preserves,Sugar and Preserves,224,1994
+Sugar and Preserves,Sugar and Preserves,212,1995
+Sugar and Preserves,Sugar and Preserves,222,1996
+Sugar and Preserves,Sugar and Preserves,202,1997
+Sugar and Preserves,Sugar and Preserves,187,1998
+Sugar and Preserves,Sugar and Preserves,169,1999
+Sugar and Preserves,Sugar and Preserves,167,2000
+Sugar and Preserves,Sugar and Preserves,147,2001
+Sugar and Preserves,Sugar and Preserves,146,2002
+Sugar and Preserves,Sugar and Preserves,135,2003
+Sugar and Preserves,Sugar and Preserves,134,2004
+Sugar and Preserves,Sugar and Preserves,129,2005
+Sugar and Preserves,Sugar and Preserves,126,2006
+Sugar and Preserves,Sugar and Preserves,125,2007
+Sugar and Preserves,Sugar and Preserves,127,2008
+Sugar and Preserves,Sugar and Preserves,125,2009
+Sugar and Preserves,Sugar and Preserves,126,2010
+Sugar and Preserves,Sugar and Preserves,126,2011
+Sugar and Preserves,Sugar and Preserves,124,2012
+Sugar and Preserves,Sugar and Preserves,123,2013
+Sugar and Preserves,Sugar and Preserves,109,2014
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],7323,1974
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],7132,1975
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],6400,1976
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],6871,1977
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],7356,1978
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],7319,1979
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],7294,1980
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],7415,1981
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],7268,1982
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],7218,1983
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],7105,1984
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],7259,1985
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],7421,1986
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],7297,1987
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],7219,1988
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],7150,1989
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],6977,1990
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],6925,1991
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],6851,1992
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],6780,1993
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],6613,1994
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],6600,1995
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],6793,1996
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],6644,1997
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],6512,1998
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],6377,1999
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],6489,2000
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],6081,2001
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],6026,2002
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],5940,2003
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],5845,2004
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],6130,2005
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],6027,2006
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],5904,2007
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],5763,2008
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],5632,2009
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],5573,2010
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],5568,2011
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],5451,2012
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],5363,2013
+Fresh and Processed Fruit and Vegetables [Including Potatoes],Fresh and Processed Fruit and Vegetables [Including Potatoes],5268,2014
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],3744,1974
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],3736,1975
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],3840,1976
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],3828,1977
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],3992,1978
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],3998,1979
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],4213,1980
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],4194,1981
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],4076,1982
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],4166,1983
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],4076,1984
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],4063,1985
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],4492,1986
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],4413,1987
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],4474,1988
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],4488,1989
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],4340,1990
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],4458,1991
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],4410,1992
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],4378,1993
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],4400,1994
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],4437,1995
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],4547,1996
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],4650,1997
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],4632,1998
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],4594,1999
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],4672,2000
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],4501,2001
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],4614,2002
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],4538,2003
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],4548,2004
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],4896,2005
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],4909,2006
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],4842,2007
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],4634,2008
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],4492,2009
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],4480,2010
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],4480,2011
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],4386,2012
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],4432,2013
+Fresh and Processed Fruit and Vegetables [Excluding Potatoes],Fresh and Processed Fruit and Vegetables [Excluding Potatoes],4352,2014
+Bread,Bread,1019,1974
+Bread,Bread,1029,1975
+Bread,Bread,1015,1976
+Bread,Bread,1000,1977
+Bread,Bread,982,1978
+Bread,Bread,958,1979
+Bread,Bread,949,1980
+Bread,Bread,953,1981
+Bread,Bread,946,1982
+Bread,Bread,938,1983
+Bread,Bread,935,1984
+Bread,Bread,947,1985
+Bread,Bread,942,1986
+Bread,Bread,935,1987
+Bread,Bread,926,1988
+Bread,Bread,899,1989
+Bread,Bread,859,1990
+Bread,Bread,811,1991
+Bread,Bread,816,1992
+Bread,Bread,819,1993
+Bread,Bread,820,1994
+Bread,Bread,818,1995
+Bread,Bread,819,1996
+Bread,Bread,810,1997
+Bread,Bread,805,1998
+Bread,Bread,779,1999
+Bread,Bread,782,2000
+Bread,Bread,770,2001
+Bread,Bread,757,2002
+Bread,Bread,728,2003
+Bread,Bread,695,2004
+Bread,Bread,701,2005
+Bread,Bread,692,2006
+Bread,Bread,677,2007
+Bread,Bread,659,2008
+Bread,Bread,656,2009
+Bread,Bread,634,2010
+Bread,Bread,621,2011
+Bread,Bread,615,2012
+Bread,Bread,607,2013
+Bread,Bread,555,2014
+Baked goods,Baked goods,398,1974
+Baked goods,Baked goods,384,1975
+Baked goods,Baked goods,372,1976
+Baked goods,Baked goods,370,1977
+Baked goods,Baked goods,360,1978
+Baked goods,Baked goods,372,1979
+Baked goods,Baked goods,358,1980
+Baked goods,Baked goods,358,1981
+Baked goods,Baked goods,367,1982
+Baked goods,Baked goods,354,1983
+Baked goods,Baked goods,346,1984
+Baked goods,Baked goods,339,1985
+Baked goods,Baked goods,352,1986
+Baked goods,Baked goods,353,1987
+Baked goods,Baked goods,348,1988
+Baked goods,Baked goods,343,1989
+Baked goods,Baked goods,345,1990
+Baked goods,Baked goods,362,1991
+Baked goods,Baked goods,361,1992
+Baked goods,Baked goods,357,1993
+Baked goods,Baked goods,359,1994
+Baked goods,Baked goods,354,1995
+Baked goods,Baked goods,391,1996
+Baked goods,Baked goods,379,1997
+Baked goods,Baked goods,366,1998
+Baked goods,Baked goods,357,1999
+Baked goods,Baked goods,376,2000
+Baked goods,Baked goods,329,2001
+Baked goods,Baked goods,338,2002
+Baked goods,Baked goods,327,2003
+Baked goods,Baked goods,329,2004
+Baked goods,Baked goods,333,2005
+Baked goods,Baked goods,330,2006
+Baked goods,Baked goods,322,2007
+Baked goods,Baked goods,323,2008
+Baked goods,Baked goods,327,2009
+Baked goods,Baked goods,315,2010
+Baked goods,Baked goods,315,2011
+Baked goods,Baked goods,309,2012
+Baked goods,Baked goods,315,2013
+Baked goods,Baked goods,309,2014
+Cereal Products,Cereal Products,264,1974
+Cereal Products,Cereal Products,265,1975
+Cereal Products,Cereal Products,276,1976
+Cereal Products,Cereal Products,276,1977
+Cereal Products,Cereal Products,279,1978
+Cereal Products,Cereal Products,287,1979
+Cereal Products,Cereal Products,297,1980
+Cereal Products,Cereal Products,296,1981
+Cereal Products,Cereal Products,291,1982
+Cereal Products,Cereal Products,292,1983
+Cereal Products,Cereal Products,302,1984
+Cereal Products,Cereal Products,299,1985
+Cereal Products,Cereal Products,323,1986
+Cereal Products,Cereal Products,335,1987
+Cereal Products,Cereal Products,335,1988
+Cereal Products,Cereal Products,350,1989
+Cereal Products,Cereal Products,347,1990
+Cereal Products,Cereal Products,381,1991
+Cereal Products,Cereal Products,386,1992
+Cereal Products,Cereal Products,372,1993
+Cereal Products,Cereal Products,376,1994
+Cereal Products,Cereal Products,421,1995
+Cereal Products,Cereal Products,476,1996
+Cereal Products,Cereal Products,462,1997
+Cereal Products,Cereal Products,431,1998
+Cereal Products,Cereal Products,447,1999
+Cereal Products,Cereal Products,470,2000
+Cereal Products,Cereal Products,510,2001
+Cereal Products,Cereal Products,515,2002
+Cereal Products,Cereal Products,506,2003
+Cereal Products,Cereal Products,498,2004
+Cereal Products,Cereal Products,532,2005
+Cereal Products,Cereal Products,530,2006
+Cereal Products,Cereal Products,536,2007
+Cereal Products,Cereal Products,535,2008
+Cereal Products,Cereal Products,548,2009
+Cereal Products,Cereal Products,556,2010
+Cereal Products,Cereal Products,547,2011
+Cereal Products,Cereal Products,542,2012
+Cereal Products,Cereal Products,549,2013
+Cereal Products,Cereal Products,560,2014
+Beverages,Beverages,107,1974
+Beverages,Beverages,103,1975
+Beverages,Beverages,105,1976
+Beverages,Beverages,97,1977
+Beverages,Beverages,93,1978
+Beverages,Beverages,102,1979
+Beverages,Beverages,99,1980
+Beverages,Beverages,99,1981
+Beverages,Beverages,97,1982
+Beverages,Beverages,100,1983
+Beverages,Beverages,92,1984
+Beverages,Beverages,90,1985
+Beverages,Beverages,93,1986
+Beverages,Beverages,92,1987
+Beverages,Beverages,90,1988
+Beverages,Beverages,89,1989
+Beverages,Beverages,84,1990
+Beverages,Beverages,86,1991
+Beverages,Beverages,81,1992
+Beverages,Beverages,77,1993
+Beverages,Beverages,75,1994
+Beverages,Beverages,74,1995
+Beverages,Beverages,77,1996
+Beverages,Beverages,71,1997
+Beverages,Beverages,68,1998
+Beverages,Beverages,68,1999
+Beverages,Beverages,70,2000
+Beverages,Beverages,60,2001
+Beverages,Beverages,58,2002
+Beverages,Beverages,56,2003
+Beverages,Beverages,56,2004
+Beverages,Beverages,57,2005
+Beverages,Beverages,55,2006
+Beverages,Beverages,56,2007
+Beverages,Beverages,55,2008
+Beverages,Beverages,54,2009
+Beverages,Beverages,56,2010
+Beverages,Beverages,53,2011
+Beverages,Beverages,53,2012
+Beverages,Beverages,52,2013
+Beverages,Beverages,52,2014
+Other food and drink,Other food and drink,291,1974
+Other food and drink,Other food and drink,267,1975
+Other food and drink,Other food and drink,280,1976
+Other food and drink,Other food and drink,271,1977
+Other food and drink,Other food and drink,282,1978
+Other food and drink,Other food and drink,293,1979
+Other food and drink,Other food and drink,298,1980
+Other food and drink,Other food and drink,305,1981
+Other food and drink,Other food and drink,312,1982
+Other food and drink,Other food and drink,327,1983
+Other food and drink,Other food and drink,327,1984
+Other food and drink,Other food and drink,334,1985
+Other food and drink,Other food and drink,344,1986
+Other food and drink,Other food and drink,355,1987
+Other food and drink,Other food and drink,366,1988
+Other food and drink,Other food and drink,403,1989
+Other food and drink,Other food and drink,399,1990
+Other food and drink,Other food and drink,423,1991
+Other food and drink,Other food and drink,465,1992
+Other food and drink,Other food and drink,446,1993
+Other food and drink,Other food and drink,462,1994
+Other food and drink,Other food and drink,498,1995
+Other food and drink,Other food and drink,504,1996
+Other food and drink,Other food and drink,538,1997
+Other food and drink,Other food and drink,524,1998
+Other food and drink,Other food and drink,529,1999
+Other food and drink,Other food and drink,584,2000
+Other food and drink,Other food and drink,649,2001
+Other food and drink,Other food and drink,670,2002
+Other food and drink,Other food and drink,699,2003
+Other food and drink,Other food and drink,697,2004
+Other food and drink,Other food and drink,710,2005
+Other food and drink,Other food and drink,764,2006
+Other food and drink,Other food and drink,721,2007
+Other food and drink,Other food and drink,675,2008
+Other food and drink,Other food and drink,705,2009
+Other food and drink,Other food and drink,706,2010
+Other food and drink,Other food and drink,726,2011
+Other food and drink,Other food and drink,776,2012
+Other food and drink,Other food and drink,778,2013
+Other food and drink,Other food and drink,787,2014
