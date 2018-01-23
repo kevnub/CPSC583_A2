@@ -35,7 +35,8 @@ button {
 
 </style>
   <body style="background-color: #FAFAFA">
-    <script src=d3.v3.js></script>
+    <script src="http://d3js.org/d3.v3.js"></script>
+
     <div id="header" style="width: 70%;"> <h1 style="font-size: 50px; padding-bottom: -40px; padding-left: 25px;">UK Food Trends</h1></div>
     <div id="option" style="width: 70%; padding-left: 25px;"></div>
     <div id="option2"></div>
@@ -124,7 +125,7 @@ button {
     var svg = d3.select(".chart").append("svg")
         .attr("width", width + margin.left + margin.right)
         .attr("height", height + margin.top + margin.bottom)
-        .style("padding-top", "8.5%")
+        .style("padding-top", "7%")
         .append("g")
         .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
 
@@ -180,10 +181,10 @@ d3.csv("Description1.csv", function(data) {
         .style("z-index", "19")
         .style("width", "1px")
         .style("height", "900px")
-        .style("top", "250px")
+        .style("top", "10px")
         .style("bottom", "30px")
         .style("left", "0px")
-        .style("background", "#FAFAFA");
+        .style("background", "#fff");
 
     d3.select(".chart")
         .on("mousemove", function(){
@@ -197,7 +198,7 @@ d3.csv("Description1.csv", function(data) {
 
     var clickChart = d3.selectAll("path").on("click", function(e) {
         tooltipCheck = true;
-        sentence = e.values[0].desc1;
+        sentence = e.values[0].desc2;
         updateData(e.key);
     });
 
@@ -333,7 +334,7 @@ d3.csv("Description1.csv", function(data) {
                 .classed("hover", true)
                 .attr("stroke", strokecolor)
                 .attr("stroke-width", "0.5px"); //,
-                tooltip.html("In <b>" + year + "</b>, the average UK household consumed <b>" + pro + "g</b> of <b>" + d.key + "</b> per week. ").style("visibility", "visible")
+                tooltip.html("In <b>" + year + "</b>, the average UK household consumed <b>" + pro + "g</b> of <b>" + d.key + "</b>. ").style("visibility", "visible")
                 tooltip2.html(d.key).style("visibility", "visible").style("top", (d3.event.pageY + 15)+"px").style("left",(d3.event.pageX+15)+"px");
         })
 
