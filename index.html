@@ -54,7 +54,7 @@ button {
     <div class="chart" align="center"></div>
 <script>
 
-    var csvpath = "Description1.csv";
+    var csvpath = "data/Description1.csv";
 	var datearray = [];
     var tooltipCheck = false;
     var sentence;
@@ -132,7 +132,7 @@ button {
 
     tooltip.html("Hover over streams for more information. Click on a stream to break it down.").style("visibility", "visible")
 
-d3.csv("Description1.csv", function(data) {
+d3.csv("data/Description1.csv", function(data) {
     data.forEach(function(d) {
         d.date = format.parse(d.date);
         d.value = +d.value;
@@ -221,43 +221,43 @@ d3.csv("Description1.csv", function(data) {
 
         var newCSV = function(){
             if(newData == "Milk and milk products")
-                {csvpath = "milkProducts.csv";
+                {csvpath = "data/milkProducts.csv";
                     z = d3.scale.ordinal().range(palette0);}
             else if(newData == "Carcase Meat")
-                {csvpath = "carcaseMeat.csv"
+                {csvpath = "data/carcaseMeat.csv"
                     z = d3.scale.ordinal().range(palette1);}
             else if(newData == "Non-Carcase Meat and Meat Products")
-                {csvpath = "nonCarcaseMeat.csv"
+                {csvpath = "data/nonCarcaseMeat.csv"
                     z = d3.scale.ordinal().range(palette2);}
             else if(newData == "Fish")
-                {csvpath = "fish.csv";
+                {csvpath = "data/fish.csv";
                     z = d3.scale.ordinal().range(palette3);}
             else if(newData == "Sugar and Preserves")
-                {csvpath = "sugarPreserves.csv";
+                {csvpath = "data/sugarPreserves.csv";
                     z = d3.scale.ordinal().range(palette4);}
             else if(newData == "Fats")
-                {csvpath = "fats.csv";
+                {csvpath = "data/fats.csv";
                     z = d3.scale.ordinal().range(palette5);}
             else if(newData == "Fresh and Processed Fruit and Vegetables [Including Potatoes]")
-                {csvpath = "fvIP.csv";
+                {csvpath = "data/fvIP.csv";
                     z = d3.scale.ordinal().range(palette6);}
             else if(newData == "Fresh and Processed Fruit and Vegetables [Excluding Potatoes]")
-                {csvpath = "fvEP.csv";
+                {csvpath = "data/fvEP.csv";
                     z = d3.scale.ordinal().range(palette7);}
             else if(newData == "Bread")
-                {csvpath = "bread.csv";
+                {csvpath = "data/bread.csv";
                     z = d3.scale.ordinal().range(palette8);}
             else if(newData == "Baked goods")
-                {csvpath = "bakedGoods.csv";
+                {csvpath = "data/bakedGoods.csv";
                     z = d3.scale.ordinal().range(palette9);}
             else if(newData == "Cereal Products")
-                {csvpath = "cerealProducts.csv";
+                {csvpath = "data/cerealProducts.csv";
                     z = d3.scale.ordinal().range(palette10);}
             else if(newData == "Beverages")
-                {csvpath = "beverages.csv";
+                {csvpath = "data/beverages.csv";
                     z = d3.scale.ordinal().range(palette11);}
             else if(newData == "Other food and drink")
-                {csvpath = "other.csv";
+                {csvpath = "data/other.csv";
                     z = d3.scale.ordinal().range(palette0);}
             else{csvpath = csvpath;}
         }
